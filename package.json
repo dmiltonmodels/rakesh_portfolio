@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "some command to be run", // you need to add this line
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,4 +18,9 @@
     "url": "https://github.com/dmiltonmodels/rakesh_portfolio/issues"
   },
   "homepage": "https://github.com/dmiltonmodels/rakesh_portfolio#readme"
+  
+  
+
+
 }
+
