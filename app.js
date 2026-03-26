@@ -6,119 +6,119 @@
 const PORTFOLIO_DATA = [
   {
     id: 1,
-    src: 'Scene_01.jpg',
+    src: '/res/freelance Work Evening View.jpg',
     category: 'Commercial',
     title: 'Vasant Harmony Business Park',
     description: 'Striking modern glass facade office building captured beautifully at dusk.'
   },
   {
     id: 2,
-    src: 'IMG-20230208-WA0001.jpg',
+    src: '/res/Overcast Villa Late Evening View.jpg',
     category: 'Exterior',
     title: 'The Modern Villa',
     description: 'A luxurious three-story contemporary villa captured at twilight.'
   },
   {
     id: 3,
-    src: '275_Scene 06_HIGH.jpg',
+  src: '/res/Crescent Wtc Day View.jpg',
     category: 'Commercial',
     title: 'Crescent WTC Aerial',
     description: 'High-angle view of a premium commercial hub adjacent to the airport terminals.'
   },
   {
     id: 4,
-    src: 'IMG-20221210-WA0007.jpg',
+    src: '/res/Leving room.jpg',
     category: 'Interior',
     title: 'Luxury Living Room',
     description: 'Spacious modern living area featuring marble accents and warm lighting.'
   },
   {
     id: 5,
-    src: '275 Scene 01_HIGH.jpg',
+    src: '/res/Crescent Wtc Evening View.jpg',
     category: 'Commercial',
     title: 'Crescent WTC Street View',
     description: 'Elegant glass and steel commercial building viewed from street level.'
   },
   {
     id: 6,
-    src: '249_Scene 03_HIGH.jpg',
+    src: '/res/Nicco Vanashri Evening View.jpg',
     category: 'Exterior',
     title: 'Nicco Vanashri Tower (Dusk)',
     description: 'A striking commercial and residential high-rise at dusk.'
   },
   {
     id: 7,
-    src: 'IMG-20221210-WA0004.jpg',
+    src: '/res/Bedroom.jpg',
     category: 'Interior',
     title: 'Contemporary Bedroom',
     description: 'Elegant master bedroom with bespoke wall paneling and a dedicated wardrobe space.'
   },
   {
     id: 8,
-    src: '275_SCENE 08_HIGH.jpg',
+    src: '/res/Crescent Wtc Night View.jpg',
     category: 'Commercial',
     title: 'Crescent WTC Night',
     description: 'Dramatic nighttime illumination highlighting the structural facade.'
   },
   {
     id: 9,
-    src: 'WhatsApp Image 2026-03-06 at 1.45.16 PM.jpeg',
+    src: '/res/Sai Galaxy Day View.jpeg',
     category: 'Exterior',
     title: 'Sai Galaxy',
     description: 'A beautifully designed contemporary residential tower in daylight.'
   },
   {
     id: 10,
-    src: '268_DEF_Day_View_HIGH.jpg',
+    src: '/res/freelance Work Day View.jpg',
     category: 'Exterior',
     title: 'Urban Residential Tower',
     description: 'Tall residential building featuring a vibrant retail podium at ground level.'
   },
   {
     id: 11,
-    src: '259_SCENE_03_HIGH.jpg',
+    src: '/res/Satra nexus Night View.jpg',
     category: 'Exterior',
     title: 'Satra Nexus Aerial',
     description: "Bird's-eye view showcasing extensive rooftop amenities and architectural layout."
   },
   {
     id: 12,
-    src: 'IMG-20221210-WA0001.jpg',
+    src: '/res/freelance Work  Night View.jpg',
     category: 'Exterior',
     title: 'Twilight Towers',
     description: 'Looking up at towering residential blocks against a clear dusk sky.'
   },
   {
     id: 13,
-    src: '256_Scene 01_HIGH.jpg',
+    src: 'res/freelance Work Day View Front.jpg',
     category: 'Exterior',
     title: 'Grand Residential Complex',
     description: 'Massive multi-wing residential estate with integrated greenery.'
   },
   {
     id: 14,
-    src: '250_Scene_10.jpg',
+    src: 'res/Nicco Vanashri Late Evening View.jpg',
     category: 'Amenities',
     title: 'Rooftop Play Area',
     description: "Vibrant and safe children's play zone located on the podium rooftop."
   },
   {
     id: 15,
-    src: '249_Scene 02_HIGH.jpg',
+    src: 'res/Nicco Vanashri Day View.jpg',
     category: 'Exterior',
     title: 'Nicco Vanashri Estate (Day)',
     description: 'Detailed view of Wings A, B, and C with perforated facade elements.'
   },
   {
     id: 16,
-    src: '259_SCENE 02_HIGH.jpg',
+    src: 'res/Satra nexus.jpg',
     category: 'Exterior',
     title: 'Satra Nexus Entrance',
     description: 'A sleek, welcoming ground-floor entrance and drop-off zone.'
   },
   {
     id: 17,
-    src: '248_Scene 01.jpg',
+    src: 'res/The Edge.jpg',
     category: 'Exterior',
     title: 'Urban Block',
     description: 'A well-integrated residential block situated next to a transit corridor.'
