@@ -6,84 +6,84 @@
 const PORTFOLIO_DATA = [
   {
     id: 1,
-    src: '/res/freelance Work Evening View.jpg',
+    src: 'res/freelance Work Evening View.jpg',
     category: 'Commercial',
     title: 'Vasant Harmony Business Park',
     description: 'Striking modern glass facade office building captured beautifully at dusk.'
   },
   {
     id: 2,
-    src: '/res/Overcast Villa Late Evening View.jpg',
+    src: 'res/Overcast Villa Late Evening View.jpg',
     category: 'Exterior',
     title: 'The Modern Villa',
     description: 'A luxurious three-story contemporary villa captured at twilight.'
   },
   {
     id: 3,
-  src: '/res/Crescent Wtc Day View.jpg',
+  src: 'res/Crescent Wtc Day View.jpg',
     category: 'Commercial',
     title: 'Crescent WTC Aerial',
     description: 'High-angle view of a premium commercial hub adjacent to the airport terminals.'
   },
   {
     id: 4,
-    src: '/res/Leving room.jpg',
+    src: 'res/Leving room.jpg',
     category: 'Interior',
     title: 'Luxury Living Room',
     description: 'Spacious modern living area featuring marble accents and warm lighting.'
   },
   {
     id: 5,
-    src: '/res/Crescent Wtc Evening View.jpg',
+    src: 'res/Crescent Wtc Evening View.jpg',
     category: 'Commercial',
     title: 'Crescent WTC Street View',
     description: 'Elegant glass and steel commercial building viewed from street level.'
   },
   {
     id: 6,
-    src: '/res/Nicco Vanashri Evening View.jpg',
+    src: 'res/Nicco Vanashri Evening View.jpg',
     category: 'Exterior',
     title: 'Nicco Vanashri Tower (Dusk)',
     description: 'A striking commercial and residential high-rise at dusk.'
   },
   {
     id: 7,
-    src: '/res/Bedroom.jpg',
+    src: 'res/Bedroom.jpg',
     category: 'Interior',
     title: 'Contemporary Bedroom',
     description: 'Elegant master bedroom with bespoke wall paneling and a dedicated wardrobe space.'
   },
   {
     id: 8,
-    src: '/res/Crescent Wtc Night View.jpg',
+    src: 'res/Crescent Wtc Night View.jpg',
     category: 'Commercial',
     title: 'Crescent WTC Night',
     description: 'Dramatic nighttime illumination highlighting the structural facade.'
   },
   {
     id: 9,
-    src: '/res/Sai Galaxy Day View.jpeg',
+    src: 'res/Sai Galaxy Day View.jpeg',
     category: 'Exterior',
     title: 'Sai Galaxy',
     description: 'A beautifully designed contemporary residential tower in daylight.'
   },
   {
     id: 10,
-    src: '/res/freelance Work Day View.jpg',
+    src: 'res/freelance Work Day View.jpg',
     category: 'Exterior',
     title: 'Urban Residential Tower',
     description: 'Tall residential building featuring a vibrant retail podium at ground level.'
   },
   {
     id: 11,
-    src: '/res/Satra nexus Night View.jpg',
+    src: 'res/Satra nexus Night View.jpg',
     category: 'Exterior',
     title: 'Satra Nexus Aerial',
     description: "Bird's-eye view showcasing extensive rooftop amenities and architectural layout."
   },
   {
     id: 12,
-    src: '/res/freelance Work  Night View.jpg',
+    src: 'res/freelance Work  Night View.jpg',
     category: 'Exterior',
     title: 'Twilight Towers',
     description: 'Looking up at towering residential blocks against a clear dusk sky.'
